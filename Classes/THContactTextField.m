@@ -7,6 +7,7 @@
 //
 
 #import "THContactTextField.h"
+#import <UIKit/UIKit.h>
 
 @implementation THContactTextField
 

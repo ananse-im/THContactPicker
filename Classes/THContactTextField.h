@@ -5,7 +5,7 @@
 //  Created by mysteriouss on 14-5-13.
 //  Copyright (c) 2014 mysteriouss. All rights reserved.
 //
-
+#import <UIKit/UIKit.h>
 @class THContactTextField;
 
 @protocol THContactTextFieldDelegate<UITextFieldDelegate>

@@ -32,7 +32,7 @@
 
 @implementation THContactPickerView
 
-#define kVerticalViewPadding				5   // the amount of padding on top and bottom of the view
+#define kVerticalViewPadding				0   // the amount of padding on top and bottom of the view
 #define kHorizontalPadding					0   // the amount of padding to the left and right of each contact view
 #define kHorizontalPaddingWithBackground	2   // the amount of padding to the left and right of each contact view (when bubbles have a non white background)
 #define kHorizontalSidePadding				10  // the amount of padding on the left and right of the view
